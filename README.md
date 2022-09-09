@@ -31,3 +31,5 @@ Faça um fork deste repositorio e realize as seguintes atividades:
 * Se encontrado exclue o elemento e atualiza a quantidade de elementos na lista
 * Se não econtrado exibe "ELEMENTO NAO ENCONTRADO" 
 
+Bruno da Silva Santos
+bruno.santos313@fatec.sp.gov.br
